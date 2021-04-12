@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T22:09:41.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.427" etag="e9Jr_LJxy2huHFSqFwVJ" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T22:10:52.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.427" etag="UwR1A50mtIOFOF0bXchZ" version="14.5.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1381" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -141,6 +141,9 @@
             <mxPoint x="400" y="180" as="sourcePoint" />
             <mxPoint x="740" y="132" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sAOFa5Hzay_z7NNn_piq-22" value="INVENTARIOS-VENTAS-PRODUCTO&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="290" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
