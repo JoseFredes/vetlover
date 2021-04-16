@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ClinicaVeterinaria"
         mc:Ignorable="d"
-        Title="wpfventas" Height="450" Width="800">
-    <Grid x:Name="">
+        Title="Ventas" Height="450" Width="800">
+    <Grid x:Name="wpfVentas">
         <Rectangle HorizontalAlignment="Left" Stroke="#FF038580" Width="125" Fill="#FF038580"/>
 
     </Grid>
