@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\José\\Documents\\Tallerdeprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj": {}
+    "C:\\Users\\José\\Documents\\tallerprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\José\\Documents\\Tallerdeprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj": {
+    "C:\\Users\\José\\Documents\\tallerprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\José\\Documents\\Tallerdeprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
+        "projectUniqueName": "C:\\Users\\José\\Documents\\tallerprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
         "projectName": "ClinicaVeterinaria",
-        "projectPath": "C:\\Users\\José\\Documents\\Tallerdeprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
+        "projectPath": "C:\\Users\\José\\Documents\\tallerprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
         "packagesPath": "C:\\Users\\José\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\José\\Documents\\Tallerdeprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\obj\\",
+        "outputPath": "C:\\Users\\José\\Documents\\tallerprogra\\ClinicaVeterinaria\\ClinicaVeterinaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

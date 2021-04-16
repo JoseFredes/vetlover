@@ -8,6 +8,7 @@
         Title="MainWindow" Height="779" Width="1067">
     <Grid>
         <Rectangle HorizontalAlignment="Left" Stroke="Black" Width="190" Fill="#FF038580"/>
+        <Rectangle HorizontalAlignment="Left" Height="107" Margin="190,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="877" Fill="#FF052D37"/>
 
     </Grid>
 </Window>
