@@ -10,5 +10,6 @@ namespace ClinicaVeterinaria
     {
         public int Id_Medico { get; set; }
         public string NombreMedico { get; set; }
+        
     }
 }

@@ -12,6 +12,7 @@ namespace ClinicaVeterinaria
         public string Nombre { get; set; }
         public TipoMascota tipoMascota { get; set; }
         public DateTime FechaNacimiento { get; set; }
-
+        
+          
     }
 }

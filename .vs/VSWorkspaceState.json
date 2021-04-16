@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ClinicaVeterinaria",
+    "\\ClinicaVeterinaria\\ClinicaVeterinaria"
   ],
+  "SelectedNode": "\\ClinicaVeterinaria\\ClinicaVeterinaria\\Medico.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,20 +1,20 @@
-﻿ClinicaVeterinaria
+﻿ClinicaVeterinaria_sedd3byl_wpftmp
 
 
 winexe
 C#
 .cs
 C:\Users\José\Documents\tallerprogra\ClinicaVeterinaria\ClinicaVeterinaria\obj\Release\net5.0-windows\
-ClinicaVeterinaria
+ClinicaVeterinaria_sedd3byl_wpftmp
 none
 false
 TRACE;RELEASE;NET;NET5_0;NETCOREAPP
 C:\Users\José\Documents\tallerprogra\ClinicaVeterinaria\ClinicaVeterinaria\App.xaml
-21782476648
+21363165006
 
-142041932666
-193-1891726104
-MainWindow.xaml;wpfventas.xaml;
+17277038201
+386511515088
+MainWindow.xaml;Ventas.xaml;
 
 True
 

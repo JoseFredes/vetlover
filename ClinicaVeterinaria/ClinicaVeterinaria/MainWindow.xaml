@@ -8,7 +8,20 @@
         Title="MainWindow" Height="779" Width="1067">
     <Grid>
         <Rectangle HorizontalAlignment="Left" Stroke="Black" Width="190" Fill="#FF038580"/>
-        <Rectangle HorizontalAlignment="Left" Height="107" Margin="190,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="877" Fill="#FF052D37"/>
+        <Rectangle Margin="190,0,0,656" Stroke="Black" Fill="#FF052D37"/>
+        <Label Content="Clinica Veterinaria Vet lover " HorizontalAlignment="Left" Margin="215,23,0,0" VerticalAlignment="Top" Height="64" Width="834" FontSize="48" FontFamily="Perpetua Titling MT" Background="{x:Null}" Foreground="White" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.024"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Image HorizontalAlignment="Left" Height="322" Margin="653,281,0,0" VerticalAlignment="Top" Width="339"/>
+        <Image Margin="682,281,74,203" Stretch="Fill" Source="pack://siteoforigin:,,,/Image1.png" OpacityMask="White"/>
+        <Button x:Name="btnVentas" Content="Ventas" HorizontalAlignment="Left" Height="51" Margin="46,123,0,0" VerticalAlignment="Top" Width="144" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" Click="Button_Click" FontFamily="Yu Gothic" FontSize="22"/>
 
     </Grid>
 </Window>
