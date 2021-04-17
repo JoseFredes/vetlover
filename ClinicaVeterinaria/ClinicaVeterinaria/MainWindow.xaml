@@ -20,8 +20,8 @@
             </Label.RenderTransform>
         </Label>
         <Image HorizontalAlignment="Left" Height="322" Margin="653,281,0,0" VerticalAlignment="Top" Width="339"/>
-        <Image Margin="682,281,74,203" Stretch="Fill" Source="pack://siteoforigin:,,,/Image1.png" OpacityMask="White"/>
         <Button x:Name="btnVentas" Content="Ventas" HorizontalAlignment="Left" Height="51" Margin="46,123,0,0" VerticalAlignment="Top" Width="144" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" Click="Button_Click" FontFamily="Yu Gothic" FontSize="22"/>
+        <Button x:Name="btnAgenda" Content="Agenda" HorizontalAlignment="Left" Height="51" Margin="46,200,0,0" VerticalAlignment="Top" Width="144" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" Click="Button_Click" FontFamily="Yu Gothic" FontSize="22"/>
 
     </Grid>
 </Window>
