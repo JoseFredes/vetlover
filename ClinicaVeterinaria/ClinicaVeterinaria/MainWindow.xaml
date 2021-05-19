@@ -5,11 +5,29 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ClinicaVeterinaria"
         mc:Ignorable="d"
-        Title="MainWindow" Height="779" Width="1067">
-    <Grid>
-        <Rectangle HorizontalAlignment="Left" Stroke="Black" Width="190" Fill="#FF038580"/>
-        <Rectangle Margin="190,0,0,656" Stroke="Black" Fill="#FF052D37"/>
-        <Label Content="Clinica Veterinaria Vet lover " HorizontalAlignment="Left" Margin="215,23,0,0" VerticalAlignment="Top" Height="64" Width="834" FontSize="48" FontFamily="Perpetua Titling MT" Background="{x:Null}" Foreground="White" RenderTransformOrigin="0.5,0.5">
+        Title="MainWindow" Height="779" Width="1067"
+        WindowStyle="None"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid RenderTransformOrigin="0.508,0.553"
+          MouseDown="Grid_MouseDown">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="1042*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle HorizontalAlignment="Left" Stroke="Black" Width="190" Fill="#FF038580" Grid.ColumnSpan="2"/>
+        <Rectangle Margin="165,0,0,656" Stroke="Black" Fill="#FF052D37" Grid.Column="1"/>
+        <Label Content="Clinica Veterinaria Vet lover "
+               HorizontalAlignment="Center"
+               Margin="291,32,0,0" 
+               VerticalAlignment="Top" 
+               Height="62" Width="599" 
+               FontSize="48"
+               FontFamily="Fonts/#Dosis" 
+               Background="{x:Null}" 
+               Foreground="White" 
+               RenderTransformOrigin="0.5,0.5" 
+               Grid.Column="1">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -19,9 +37,290 @@
                 </TransformGroup>
             </Label.RenderTransform>
         </Label>
-        <Image HorizontalAlignment="Left" Height="322" Margin="653,281,0,0" VerticalAlignment="Top" Width="339"/>
-        <Button x:Name="btnVentas" Content="Ventas" HorizontalAlignment="Left" Height="51" Margin="46,123,0,0" VerticalAlignment="Top" Width="144" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" Click="Button_Click" FontFamily="Yu Gothic" FontSize="22"/>
-        <Button x:Name="btnAgenda" Content="Agenda" HorizontalAlignment="Left" Height="51" Margin="46,200,0,0" VerticalAlignment="Top" Width="144" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" Click="Button_Click" FontFamily="Yu Gothic" FontSize="22"/>
+        <Rectangle HorizontalAlignment="Left" Height="500" Margin="521,193,0,0" VerticalAlignment="Top" Width="500" Grid.Column="1">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/Logo2.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="51" Margin="4,112,0,0" VerticalAlignment="Top" Width="48" Grid.ColumnSpan="2">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/sales.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="50" Margin="4,603,0,0" VerticalAlignment="Top" Width="50" Grid.ColumnSpan="2">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/record.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="50" Margin="2,0,0,0" VerticalAlignment="Center" Width="50" Grid.ColumnSpan="2">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/inventory.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Width="49"
+                   HorizontalAlignment="Left" Margin="-2,240,0,493" Grid.ColumnSpan="2"
+                   >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/Agenda.png">
+
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Width="50"
+                   Height="50"
+                   HorizontalAlignment="Left" Margin="-3,490,0,239" Grid.ColumnSpan="2"
+                   >
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/reports.png">
+
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="btnAgenda" 
+            Content="Agenda" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="UltraBlack"
+            FontFamily="Fonts/#Dosis"
+            Click="botonAgenda" 
+            Margin="27,193,0,466"
+            Cursor="Hand"
+            HorizontalAlignment="Left"
+            Grid.Column="1" Width="112">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF1BBFA1"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="100"
+                        Height="50"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Center"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label Content="Reportes" 
+            HorizontalAlignment="Left" 
+            Margin="196,134,0,0" 
+            VerticalAlignment="Top"
+            Height="92" Width="290" 
+            FontSize="50" Grid.Column="1"
+            FontFamily="Fonts/#Dosis"   />
+        <Label Content="Inventario" 
+            HorizontalAlignment="Left" 
+            Margin="253,226,0,0" 
+            VerticalAlignment="Top"
+            Height="69" Width="157" 
+            FontSize="30" Grid.Column="1"
+            FontFamily="Fonts/#Dosis"/>
+        <Ellipse Grid.Column="1" HorizontalAlignment="Left" Height="32" Margin="196,240,0,0" Stroke="#FFD6D3D1" VerticalAlignment="Top" Width="33" Fill="#FFD6D3D1"/>
+        <Ellipse Grid.Column="1" HorizontalAlignment="Left" Height="32" Margin="196,392,0,0" Stroke="#FFD6D3D1" VerticalAlignment="Top" Width="33" Fill="#FFD6D3D1"/>
+        <Ellipse Grid.Column="1" HorizontalAlignment="Left" Height="32" Margin="195,556,0,0" Stroke="#FFD6D3D1" VerticalAlignment="Top" Width="34" Fill="#FFD6D3D1"/>
+        <Label Content="Ventas del día" 
+            HorizontalAlignment="Left" 
+            Margin="253,382,0,0" 
+            VerticalAlignment="Top"
+            Height="56" Width="217"
+            FontFamily="Fonts/#Dosis"   
+            FontSize="30" Grid.Column="1"/>
+        <Label Content="Atenciones del dia" 
+            HorizontalAlignment="Left" 
+            Margin="253,542,0,0" 
+            VerticalAlignment="Top"
+            Height="70" Width="268" 
+            FontFamily="Fonts/#Dosis"
+            FontSize="30" Grid.Column="1"/>
+        <Rectangle Grid.Column="1" HorizontalAlignment="Left" Height="120" Margin="211,272,0,0" Stroke="Gray" VerticalAlignment="Top" Width="2" Fill="#FF747171" OpacityMask="Gray"/>
+        <Rectangle Grid.Column="1" HorizontalAlignment="Left" Height="132" Margin="211,424,0,0" Stroke="Gray" VerticalAlignment="Top" Width="2" Fill="#FF747171" OpacityMask="Gray"/>
+        <Button x:Name="btnInventario" 
+            Content="Inventario" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="UltraBlack"
+            FontFamily="Fonts/#Dosis"
+            Click="botonInventario" 
+            Margin="27,318,0,341"
+            Cursor="Hand"
+            HorizontalAlignment="Left"
+            Grid.Column="1" Width="112">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF1BBFA1"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="100"
+                        Height="50"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Center"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnReporte" 
+            Content="Reporte" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="UltraBlack"
+            FontFamily="Fonts/#Dosis"
+            Click="botonReportes" 
+            Margin="27,443,0,216"
+            Cursor="Hand"
+            HorizontalAlignment="Left"
+            Grid.Column="1" Width="112">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF1BBFA1"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="100"
+                        Height="50"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Center"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnFicha" 
+            Content="Ficha" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="UltraBlack"
+            FontFamily="Fonts/#Dosis"
+            Click="botonFicha" 
+            Margin="29,568,0,91"
+            Cursor="Hand"
+            HorizontalAlignment="Left"
+            Grid.Column="1" Width="112">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF1BBFA1"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="100"
+                        Height="50"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Center"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnVentas" 
+            Content="Ventas" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="UltraBlack"
+            FontFamily="Fonts/#Dosis"
+            Click="botonVentas" 
+            Margin="27,69,0,591"
+            Cursor="Hand"
+            HorizontalAlignment="Left"
+            Grid.Column="1" Width="110">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF1BBFA1"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="100"
+                        Height="50"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Center"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnSalir" 
+                Content="x" 
+                Foreground="White"
+                FontSize="15"
+                FontWeight="Medium"
+                Click="salir" 
+                Margin="983,0,0,704" 
+                Cursor="Hand" Grid.Column="1" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1" ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FFF91E1E"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF420606"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Width="25"
+                            Height="25"
+                            CornerRadius="50"
+                            Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Top"
+                                          HorizontalAlignment="Center">
+                        </ContentPresenter>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label x:Name="lbltotalinv" Content="" Grid.Column="1" HorizontalAlignment="Left" Height="41" Margin="289,291,0,0" VerticalAlignment="Top" Width="84" FontSize="20" FontWeight="Bold" FontFamily="Dosis"/>
+        <Label x:Name="lblventasdeldia" Content="" Grid.Column="1" HorizontalAlignment="Left" Height="47" Margin="291,443,0,0" VerticalAlignment="Top" Width="80" FontSize="20" FontWeight="Bold" FontFamily="Dosis"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,478 @@
+﻿<Window x:Class="ClinicaVeterinaria.wpfAgendarHora"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClinicaVeterinaria"
+        mc:Ignorable="d"
+        Title="wpfAgendarHora" Height="1125" Width="1158"
+        WindowStyle="None"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid MouseDown="Grid_MouseDown">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="254*"/>
+            <RowDefinition Height="121*"/>
+        </Grid.RowDefinitions>
+        <Grid Background="#FF038580" Margin="0,0,971,0" Grid.RowSpan="2">
+
+            <Button x:Name="btnInicio" 
+                Content="Inicio" 
+                Foreground="White"
+                FontSize="15"
+                FontWeight="UltraBlack"
+                FontFamily="Fonts/#Dosis"
+                Click="botonInicio"
+                Margin="40,195,0,786" 
+                Cursor="Hand" 
+                HorizontalAlignment="Left">
+
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Setter Property="Background" Value="#FF038580"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF1BBFA1"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100"
+                            Height="50"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center">
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button x:Name="btnVentas" 
+                Content="Ventas" 
+                Foreground="White"
+                FontSize="15"
+                FontWeight="UltraBlack"
+                FontFamily="Fonts/#Dosis"
+                Click="botonVentas" 
+                Margin="47,328,0,653"
+                Cursor="Hand"
+                HorizontalAlignment="Left"
+                >
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Setter Property="Background" Value="#FF038580"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF1BBFA1"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100"
+                            Height="50"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center">
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <Button x:Name="btnFicha" 
+                Content="Ficha" 
+                Foreground="White"
+                FontSize="15"
+                FontWeight="UltraBlack"
+                FontFamily="Fonts/#Dosis"
+                Click="botonFicha" Margin="40,567,0,414" Cursor="Hand" HorizontalAlignment="Left" >
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Setter Property="Background" Value="#FF038580"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF1BBFA1"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100"
+                            Height="50"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center">
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button x:Name="btnInventario" 
+                Content="Inventario" 
+                Foreground="White"
+                FontSize="15"
+                FontWeight="UltraBlack"
+                FontFamily="Fonts/#Dosis"
+                Click="botonInventario" Margin="71,691,0,290" Cursor="Hand" HorizontalAlignment="Left" >
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Setter Property="Background" Value="#FF038580"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF1BBFA1"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="100"
+                            Height="50"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                            <ContentPresenter VerticalAlignment="Center"
+                                          HorizontalAlignment="Center">
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Rectangle HorizontalAlignment="Left" Height="50" Margin="10,738,0,0" VerticalAlignment="Top" Width="50">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Imagen/inventory.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle Width="50"
+                Height="50"
+                HorizontalAlignment="Left" Margin="0,490,0,585"
+                   >
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Imagen/reports.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Button x:Name="btnReportes" 
+                Content="Reporte" 
+                Foreground="White"
+                FontSize="15"
+                FontWeight="UltraBlack"
+                FontFamily="Fonts/#Dosis"
+                Click="botonReportes" Margin="55,443,0,538" Cursor="Hand" HorizontalAlignment="Left" >
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Setter Property="Background" Value="#FF038580"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF1BBFA1"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Width="100"
+                            Height="50"
+                            CornerRadius="12"
+                            Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                            <ContentPresenter VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+
+        <Grid Background="#FF052D37" Margin="187,0,0,571">
+            <Label Content="Agendar Hora"
+               Margin="88,35,89,0" 
+               VerticalAlignment="Top"
+               Height="72" 
+               FontSize="48" 
+               FontFamily="Fonts/#Dosis"
+               Foreground="White" 
+               HorizontalContentAlignment="Center">
+            </Label>
+            <Button x:Name="btnSalir" 
+                Content="x" 
+                Foreground="White"
+                FontSize="15"
+                FontWeight="Medium"
+                Click="salir" 
+                Margin="899,0,0,49" 
+                Cursor="Hand" RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Setter Property="Background" Value="#FFF91E1E"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF420606"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Width="25"
+                            Height="25"
+                            CornerRadius="50"
+                            Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                            <ContentPresenter VerticalAlignment="Top"
+                                          HorizontalAlignment="Center">
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+        <Rectangle HorizontalAlignment="Left" Height="50" Margin="1,602,0,0" VerticalAlignment="Top" Width="50">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/record.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="50" Margin="1,232,0,0" VerticalAlignment="Top" Width="50">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/house.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="50" Margin="4,0,0,0" VerticalAlignment="Center" Width="50">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Imagen/sales.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label Content="Rut Cliente" 
+            HorizontalAlignment="Left" 
+            Margin="266,271,0,0" 
+            VerticalAlignment="Top"
+            Height="70" Width="146" 
+            FontSize="22"
+            FontFamily="Fonts/#Dosis"/>
+        <Label Content="Nombre Mascota" 
+            HorizontalAlignment="Left" 
+            Margin="266,406,0,0" 
+            VerticalAlignment="Top"
+            Height="70" Width="190" 
+            FontSize="22"
+            FontFamily="Fonts/#Dosis"/>
+        <Label Content="DD/MM/AA" 
+            HorizontalAlignment="Left" 
+            Margin="280,557,0,0" 
+            VerticalAlignment="Top"
+            Height="70" Width="146" 
+            FontSize="22"
+            FontFamily="Fonts/#Dosis"/>
+        <Calendar x:Name="calendario" HorizontalAlignment="Left" Margin="250,620,0,0" VerticalAlignment="Top" Grid.RowSpan="2" Height="168" Width="178"/>
+        <Button x:Name="btnAgendarHora" 
+            Content="Agendar" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="Medium"
+            Click="AgendarHora" Margin="869,330,99,278" FontFamily="Yu Gothic" Cursor="Hand" >
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF052D37"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="150"
+                        Height="25"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Top"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnEliminar" 
+            Content="Eliminar" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="Medium"
+            Click="Eliminar" Margin="869,505,99,102" FontFamily="Yu Gothic" Cursor="Hand" >
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF052D37"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="150"
+                        Height="25"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Top"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnMostrarHora" 
+            Content="Mostrar Hora" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="Medium"
+            Click="MostrarHora" Margin="869,650,99,320" FontFamily="Yu Gothic" Cursor="Hand" Grid.RowSpan="2" >
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF052D37"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="150"
+                        Height="25"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Top"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnCalendario" 
+            Content="Calendario" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="Medium"
+            Click="Calendario" Margin="869,38,99,181" FontFamily="Yu Gothic" Cursor="Hand" Grid.Row="1" >
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF052D37"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="150"
+                        Height="25"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Top"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <TextBox x:Name="txtRutCliente" 
+            HorizontalAlignment="Left" 
+            Margin="266,346,0,0"
+            Text="&#xA;" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top" 
+            Width="160" 
+            Height="23"/>
+        <ComboBox x:Name="cmbhora" HorizontalAlignment="Left" Margin="472,630,0,0" VerticalAlignment="Top" Width="131" Height="22"/>
+        <Label Content="Hora" 
+            HorizontalAlignment="Left" 
+            Margin="483,555,0,0" 
+            VerticalAlignment="Top"
+            Height="70" Width="146" 
+            FontSize="22"
+            FontFamily="Fonts/#Dosis"/>
+        <ComboBox x:Name="cmbtipoatencion" Margin="472,0,555,336" Grid.Row="1"/>
+        <Label Content="Tipo de Atención" HorizontalAlignment="Left" Margin="474,711,0,0" VerticalAlignment="Top" Height="26" Width="126" FontFamily="Dosis" FontWeight="Normal" FontSize="14"/>
+        <ComboBox x:Name="cmbnombremascotas" HorizontalAlignment="Left" Margin="266,476,0,0" VerticalAlignment="Top" Width="120" Height="22"/>
+        <Button x:Name="btnmostrarnombre" 
+            Content="Mostrar nombres" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="Medium"
+            Click="mostrarnombres" Margin="410,407,558,200" FontFamily="Yu Gothic" Cursor="Hand" >
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF052D37"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="150"
+                        Height="25"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Top"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnmostrarhoras" 
+            Content="Horas disponibles" 
+            Foreground="White"
+            FontSize="15"
+            FontWeight="Medium"
+            Click="btnhorasdisponibles" Margin="600,566,368,46" FontFamily="Yu Gothic" Cursor="Hand" >
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="Background" Value="#FF038580"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF052D37"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Width="150"
+                        Height="25"
+                        CornerRadius="12"
+                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
+                        <ContentPresenter VerticalAlignment="Top"
+                            HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>

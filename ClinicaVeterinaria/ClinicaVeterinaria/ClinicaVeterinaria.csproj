@@ -6,4 +6,46 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Image2.png" />
+    <None Remove="Image3.png" />
+    <None Remove="Imagen\Agenda.png" />
+    <None Remove="Imagen\house.png" />
+    <None Remove="Imagen\inventory.png" />
+    <None Remove="Imagen\Logo.png" />
+    <None Remove="Imagen\Logo2.png" />
+    <None Remove="Imagen\record.png" />
+    <None Remove="Imagen\reports.png" />
+    <None Remove="Imagen\sales.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Imagen\Agenda.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagen\house.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagen\inventory.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagen\Logo2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagen\record.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagen\reports.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagen\sales.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.24" />
+    <PackageReference Include="MySqlConnector" Version="1.3.7" />
+  </ItemGroup>
+
 </Project>

@@ -68,3 +68,429 @@ C:\Users\José\Documents\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\o
 C:\Users\José\Documents\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
 C:\Users\José\Documents\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
 C:\Users\José\Documents\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\sebas\Desktop\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\José\Documents\tallerprogra\p\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CopyComplete
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CopyComplete
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Agenda.png
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_Content.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\house.png
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\inventory.png
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\record.png
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\reports.png
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\sales.png
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\IANOL\Desktop\proyectoclinica (1)\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Logo2.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_Content.g.cs
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Agenda.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\house.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\inventory.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Logo2.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\record.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\reports.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\sales.png
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.baml
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CopyComplete
+C:\Users\IANOL\Desktop\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Agenda.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\house.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\inventory.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Logo2.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\record.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\reports.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\sales.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_Content.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CopyComplete
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\Proyecto prototipo con informe y presentación\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Agenda.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\house.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\inventory.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Logo2.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\record.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\reports.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\sales.png
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_Content.g.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CopyComplete
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Agenda.png
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\house.png
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\inventory.png
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Logo2.png
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\record.png
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\reports.png
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\sales.png
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_Content.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.baml
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CopyComplete
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\AgendarHora12.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\AgendarHora12.baml
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfAgendarHora.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfReportes.g.cs
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfAgendarHora.baml
+C:\Users\IANOL\Desktop\Proyecto Clinica\Proyecto Clinica\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfReportes.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Agenda.png
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\house.png
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\inventory.png
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\Logo2.png
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\record.png
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\reports.png
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Imagen\sales.png
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.exe
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.deps.json
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\AgendarHora12.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfAgendarHora.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfReportes.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_Content.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria_MarkupCompile.lref
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\AgendarHora12.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfAgendarHora.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfFichaPaciente.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfInventario.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfReportes.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\wpfventas.baml
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.g.resources
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.csproj.CopyComplete
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache

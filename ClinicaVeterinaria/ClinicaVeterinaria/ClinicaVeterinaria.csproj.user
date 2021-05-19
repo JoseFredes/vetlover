@@ -7,12 +7,42 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AgendarHora12.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wpfAgendarHora.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wpfFichaPaciente.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wpfInventario.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wpfReportes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="wpfventas.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AgendarHora12.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wpfAgendarHora.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wpfFichaPaciente.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wpfInventario.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wpfReportes.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="wpfventas.xaml">

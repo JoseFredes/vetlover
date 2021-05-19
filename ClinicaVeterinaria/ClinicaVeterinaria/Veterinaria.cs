@@ -8,6 +8,7 @@ namespace ClinicaVeterinaria
 {
     public class Veterinaria
     {
+        ConeccionBBDD coneccionsql = new ConeccionBBDD();
         public Veterinaria()
         {
             ListaClientes = new List<Cliente>();
@@ -30,28 +31,19 @@ namespace ClinicaVeterinaria
 
         public int TotalventasDirarias()
         {
-            int total = 0;
-            for (int i = 0; i < ListaVentas.Count(); i++)
-            {
-                for (int x = 0; x < ListaVentas[i].ProductosSeleccionados.Count(); x++)
-                {
-                    total = +ListaVentas[i].ProductosSeleccionados[x].PrecioProducto;
-                }
-            }
-            return total;
+            
+            int totalventas = 0;
+
+            totalventas = coneccionsql.listadeventas().Count();
+
+            return totalventas;
         }
 
-        public int TotalInventario()
+        public string TotalInventario()
         {
-            int TotalInventario = 0;
-            for (int i = 0; i < ListaVentas.Count(); i++)
-            {
-                for (int x = 0; x < ListaVentas[i].ListaProductos.Count(); x++)
-                {
-                    TotalInventario = +ListaVentas[i].ListaProductos[x].CantidadProducto;
-                }
-            }
-            return TotalInventario;
+            string totalinventario;
+            totalinventario=  coneccionsql.mostrarTotalinventario().Sum().ToString();
+            return totalinventario;
         }
 
         public int MostrarReservasDiarias()

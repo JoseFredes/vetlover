@@ -21,16 +21,6 @@ namespace ClinicaVeterinaria
         public TipoProducto Tipoproducto { get; set; }
 
 
-        public void Eliminarproducto(Producto producto)
-        {
-            // debe eliminar entrando un objeto producto
-        }
-        
-        public void AgregarProducto(Producto producto)
-        {
-            // debe agregar un objeto producto
-        }
-
 
     }
 }
