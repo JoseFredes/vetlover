@@ -494,3 +494,5 @@ C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaV
 C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ref\ClinicaVeterinaria.dll
 C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.pdb
 C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ventanaagenda.g.cs
+C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\ventanaagenda.baml

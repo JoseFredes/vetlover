@@ -16,9 +16,6 @@ namespace ClinicaVeterinaria
             ListaVentas = new List<Venta>();
         }
 
-        public string NombreVeterinaria { get; set; }
-        public string Direccion { get; set; }
-
         public List<ReservaHoras> ListaReservaHoras { get; set; }
         public List<Venta> ListaVentas { get; set; }
         public List<Cliente> ListaClientes { get; set; }
@@ -48,27 +45,10 @@ namespace ClinicaVeterinaria
 
         public int MostrarReservasDiarias()
         {
-            int TotalReversasdirarias = 0;
-            TotalReversasdirarias = ListaReservaHoras.Count();
-            return TotalReversasdirarias;
+            DateTime fecha = DateTime.Now;
+            return coneccionsql.cantidaddeatencionesxdia(fecha); 
         }
-
-        public List<Venta> DetalleVentas()
-        {
-            List<Venta> ventas = new List<Venta>();
-
-
-            for (int i = 0; i < ListaVentas.Count(); i++)
-            {
       
-                
-            }
-            return ListaVentas;
-        }
-        public List<ReservaHoras> DetalleReservas()
-        {
-            return ListaReservaHoras;
-        }
 
         public Cliente ConsultarfichaPacienteporNombre(String Nombre, string  rut)
         {
@@ -84,6 +64,8 @@ namespace ClinicaVeterinaria
             return Clienteconsulta;
 
         }
+
+
                 
     }
 }

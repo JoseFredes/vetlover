@@ -22,6 +22,8 @@ namespace ClinicaVeterinaria
         
         public string hora { get; set; }
 
+        public DateTime Fecha { get; set; }
+
         public void GenerarReserva(string rut, TipoAtencion tipoAtencion, DateTime fecha, string hora , string nombremascota)
         {
             var mascota = new Mascota();
@@ -58,9 +60,16 @@ namespace ClinicaVeterinaria
             Coneccion.Generarhora(idpaciente, medico.Id_Medico, fecha, hora);
         }
 
-        public void CancelarHora(Cliente cliente, DateTime hora)
-        {// puede entrar el rut de cliente en vez de entrar un objeto cliente
+        public void CancelarHora(string id, DateTime fecha, string hora)
+        {
+            Coneccion.eliminarconsulta(id, fecha, hora);
+        }
 
+        public List<string> Consultarhorapaciente(string rut, DateTime date, string nombremascota)
+        {
+            var paciente = Coneccion.Consultarhoradepaciente(rut,date,nombremascota);
+
+            return paciente;
         }
     }
 }

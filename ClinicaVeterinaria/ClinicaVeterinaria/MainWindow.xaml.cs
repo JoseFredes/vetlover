@@ -29,6 +29,7 @@ namespace ClinicaVeterinaria
             WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             TotalInventario();
             Cantventasdeldía();
+            Atencionesdeldia();
         }
         private void Grid_MouseDown(object sender, MouseButtonEventArgs e)
         {
@@ -63,6 +64,12 @@ namespace ClinicaVeterinaria
             this.lblventasdeldia.Content = string.Empty;
             this.lblventasdeldia.Content = vet.TotalventasDirarias();
 
+        }
+
+        private void Atencionesdeldia()
+        {
+            this.lblatenciones.Content = string.Empty;
+            this.lblatenciones.Content = vet.MostrarReservasDiarias();
         }
 
         private void botonInventario(object sender, RoutedEventArgs e)

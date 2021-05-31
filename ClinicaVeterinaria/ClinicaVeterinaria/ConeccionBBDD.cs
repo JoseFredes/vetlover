@@ -282,6 +282,7 @@ namespace ClinicaVeterinaria
             MySqlDataReader reader = command.ExecuteReader();
             while (reader.Read())
             {
+       
                total = int.Parse(reader.GetString(0));
 
             }
@@ -351,6 +352,97 @@ namespace ClinicaVeterinaria
             Cerrar();
             return horas;
         }
-    }
+
+        public int cantidaddeatencionesxdia(DateTime date)
+        {
+            int total = 0;
+            var fecha = date.ToString("yyyyMMdd");
+            mySql.Open();
+            String query = "SELECT COUNT(*) FROM `consulta` WHERE `fecha` = " + fecha + "";
+            MySqlCommand command = new MySqlCommand(query, mySql);
+            command.ExecuteNonQuery();
+            MySqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                total = int.Parse(reader.GetString(0));
+
+            }
+
+            Cerrar();
+            return total;
+        }
+
+
+        public void eliminarconsulta(string idpaciente  , DateTime date , string hora)
+        {
+            //DELETE FROM `consulta` WHERE `id_paciente` = "1" and `id_medico` = "2" and `fecha` = "2021/05/30" and `hora` = "9:00 AM" 
+            try
+            {
+                mySql.Open();
+                var fecha = date.ToString("yyyyMMdd");
+                String query = "DELETE FROM `consulta` WHERE `id_paciente` = '" + idpaciente + "' and `fecha` = '" + fecha + "' and `hora` = '" + hora + "');";
+                MySqlCommand command = new MySqlCommand(query, mySql);
+                command.ExecuteNonQuery();
+                Cerrar();
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("OPPS! HAY UN PROBLEMA CON LOS DATOS" + ex);
+            }
+        }
+
+       
+        public List<string> traerdatosparacalendario(DateTime date)
+        {
+            List<string> horas = new List<string>();
+            var fecha = date.ToString("yyyyMMdd");
+            mySql.Open(); //SELECT `hora` FROM `consulta` WHERE `fecha` = "20210530"
+            String query = "SELECT `id_paciente`,`id_medico`,`hora` FROM `consulta` WHERE `fecha` = " + fecha + "";
+            MySqlCommand command = new MySqlCommand(query, mySql);
+            command.ExecuteNonQuery();
+            MySqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                horas.Add(reader["id_paciente"]+";"+reader["id_medico"]+";"+reader["hora"].ToString());
+            }
+
+            Cerrar();
+            return horas;
+        }
+
+        public List<string> listapacientes()
+        {
+            List<string> mascotas = new List<string>();
+            mySql.Open(); //SELECT `hora` FROM `consulta` WHERE `fecha` = "20210530"
+            String query = "SELECT pacientes.id_paciente, mascota.nombre_mascota, mascota.tipo_mascota FROM `pacientes` INNER JOIN `mascota` on pacientes.id_mascota = mascota.id_mascota";
+            MySqlCommand command = new MySqlCommand(query, mySql);
+            command.ExecuteNonQuery();
+            MySqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                mascotas.Add(reader["id_paciente"] + ";" + reader["nombre_mascota"] + ";" + reader["tipo_mascota"].ToString());
+            }
+            Cerrar();
+            return mascotas;
+        }
+
+        public List<string> Consultarhoradepaciente(string rut, DateTime date, string nombremasctoa)
+        {
+            mySql.Open();
+            List<string> listapacientes = new List<string>();
+            var fecha = date.ToString("yyyyMMdd");
+            String query = ("SELECT mascota.nombre_mascota, mascota.tipo_mascota, consulta.hora FROM `cliente` INNER JOIN `pacientes` ON cliente.id_cliente = pacientes.id_cliente INNER JOIN `mascota` on pacientes.id_mascota = mascota.id_mascota INNER JOIN `consulta` on consulta.id_paciente = pacientes.id_paciente WHERE cliente.rut = '" + rut + "' AND mascota.nombre_mascota = '" + nombremasctoa +"' AND consulta.fecha = '"+ fecha +"' ; ");
+            MySqlCommand command = new MySqlCommand(query, mySql);
+            command.ExecuteNonQuery();
+            MySqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                listapacientes.Add(reader["nombre_mascota"].ToString() + reader["tipo_mascota"].ToString()+ reader["hora"].ToString());
+            }
+            Cerrar();
+            return listapacientes;
+        }
+
+    } 
 
 }

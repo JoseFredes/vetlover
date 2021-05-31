@@ -315,7 +315,7 @@
             Foreground="White"
             FontSize="15"
             FontWeight="Medium"
-            Click="Eliminar" Margin="869,505,99,102" FontFamily="Yu Gothic" Cursor="Hand" >
+            Click="Eliminar" Margin="238,139,730,69" FontFamily="Yu Gothic" Cursor="Hand" Grid.Row="1" >
             <Button.Style>
                 <Style TargetType="{x:Type Button}">
                     <Setter Property="Cursor" Value="Hand"/>
@@ -474,5 +474,13 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
+        <ComboBox x:Name="cmbhoraeliminar" HorizontalAlignment="Left" Margin="472,216,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Seleccionar hora a eliminar" 
+            HorizontalAlignment="Left" 
+            Margin="418,139,0,0" 
+            VerticalAlignment="Top"
+            Height="70" Width="240" 
+            FontSize="22"
+            FontFamily="Fonts/#Dosis" Grid.Row="1"/>
     </Grid>
 </Window>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\App.xaml
-7-304000501
+81908373556
 7213513691
-20-825067694
+21-1087611088
 202-874590776
-AgendarHora12.xaml;MainWindow.xaml;wpfAgendarHora.xaml;wpfFichaPaciente.xaml;wpfInventario.xaml;wpfReportes.xaml;wpfventas.xaml;
+AgendarHora12.xaml;MainWindow.xaml;ventanaagenda.xaml;wpfAgendarHora.xaml;wpfFichaPaciente.xaml;wpfInventario.xaml;wpfReportes.xaml;wpfventas.xaml;
 
 False
 

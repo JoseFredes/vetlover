@@ -47,6 +47,41 @@ namespace ClinicaVeterinaria
                 cmbtipoatencion.Items.Add(tipoatencion);
             }
 
+            List<string> listadehorasaliminar = new List<string>();
+            listadehorasaliminar.Add("9:00 AM");
+            listadehorasaliminar.Add("9:30 AM");
+            listadehorasaliminar.Add("10:00 AM");
+            listadehorasaliminar.Add("10:30 AM");
+            listadehorasaliminar.Add("11:00 AM");
+            listadehorasaliminar.Add("11:30 AM");
+            listadehorasaliminar.Add("11:30 AM");
+            listadehorasaliminar.Add("12:00 PM");
+            listadehorasaliminar.Add("12:30 PM");
+            listadehorasaliminar.Add("13:00 PM");
+            listadehorasaliminar.Add("13:30 PM");
+            listadehorasaliminar.Add("14:00 PM");
+            listadehorasaliminar.Add("14:30 PM");
+            listadehorasaliminar.Add("15:00 PM");
+            listadehorasaliminar.Add("15:30 PM");
+            listadehorasaliminar.Add("16:00 PM");
+            listadehorasaliminar.Add("16:30 PM");
+            listadehorasaliminar.Add("17:00 PM");
+            listadehorasaliminar.Add("17:30 PM");
+            listadehorasaliminar.Add("18:00 PM");
+            listadehorasaliminar.Add("18:30 PM");
+            listadehorasaliminar.Add("19:00 PM");
+            listadehorasaliminar.Add("19:30 PM");
+            listadehorasaliminar.Add("20:00 PM");
+            listadehorasaliminar.Add("20:30 PM");
+            listadehorasaliminar.Add("21:00 PM");
+
+            cmbhoraeliminar.Items.Clear();
+            cmbhoraeliminar.DataContext = null;
+
+            foreach (var hora in listadehorasaliminar)
+            {
+                cmbhoraeliminar.Items.Add(hora);
+            }
         }
 
         public void llenarcombohorario(List<string> horas)
@@ -168,22 +203,63 @@ namespace ClinicaVeterinaria
 
         private void Eliminar(object sender, RoutedEventArgs e)
         {
-            
-             
+
+            var client = new Cliente();
+            var re = new ReservaHoras();
+
             if (this.txtRutCliente.Text == string.Empty)
                 MessageBox.Show("Debe ingresar el rut");
+
+            client.Rut = this.txtRutCliente.Text;
+            re.Fecha = this.calendario.SelectedDate.Value;
+            re.hora = this.cmbhoraeliminar.SelectedItem.ToString();
+
+            var ids = coneccion.trearidcliente();
+            string idcliente = string.Empty;
+            for (int i = 0; i < ids.Count; i++)
+            {
+                var linea = ids[i].ToString().Split(';');
+                if (linea[1].Equals(client.Rut))
+                {
+                    idcliente = linea[0];
+                }
+            }
+
+            re.CancelarHora(idcliente, re.Fecha, re.hora);
             
         }
 
         private void MostrarHora(object sender, RoutedEventArgs e)
         {
-            string hora = this.calendario.SelectedDate.Value.ToString();
-           
+            var client = new Cliente();
+            var re = new ReservaHoras();
+            var masc = new Mascota();
+
+            if (this.txtRutCliente.Text == string.Empty)
+                MessageBox.Show("Debe ingresar el rut");
+
+            client.Rut = this.txtRutCliente.Text;
+            re.Calendario = this.calendario.SelectedDate.Value;
+            masc.Nombre = cmbnombremascotas.SelectedValue.ToString();
+
+            var lista = re.Consultarhorapaciente(client.Rut, re.Calendario, masc.Nombre);
+
+            for (int i = 0; i < lista.Count; i++)
+            {
+                var datos = lista.ToString();
+
+                MessageBox.Show("HORA PACIENTE \t" + datos.ToString() + "\t");
+            }
+
         }
 
         private void Calendario(object sender, RoutedEventArgs e)
         {
-
+            var reserva = new ReservaHoras();
+            ventanaagenda ventanaagenda = new ventanaagenda();
+            ventanaagenda.Show();
+            ventanaagenda.llenarcalendario(this.calendario.SelectedDate.Value);
+            
         }
 
         private void salir(object sender, RoutedEventArgs e)

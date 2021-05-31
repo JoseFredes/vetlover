@@ -1,0 +1,64 @@
+﻿<Window x:Class="ClinicaVeterinaria.ventanaagenda"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClinicaVeterinaria"
+        mc:Ignorable="d"
+        Title="ventanaagenda" Height="528" Width="983" WindowStartupLocation="CenterScreen" WindowState="Normal">
+    <Grid Margin="0,0,0,1">
+        <Label Content="Fecha:" HorizontalAlignment="Left" Height="38" Margin="336,6,0,0" VerticalAlignment="Top" Width="58" FontFamily="Dosis" FontSize="16"/>
+        <Label Content="9:00" HorizontalAlignment="Left" Height="30" Margin="29,81,0,0" VerticalAlignment="Top" Width="73"/>
+        <Label Content="9:30" HorizontalAlignment="Left" Margin="29,116,0,0" VerticalAlignment="Top" Width="46"/>
+        <Label Content="10:00" HorizontalAlignment="Left" Height="28" Margin="26,149,0,0" VerticalAlignment="Top" Width="46"/>
+        <Label Content="10:30" HorizontalAlignment="Left" Margin="26,181,0,0" VerticalAlignment="Top"/>
+        <Label Content="11:00" HorizontalAlignment="Left" Margin="27,217,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl9" Content="" HorizontalAlignment="Left" Height="27" Margin="72,84,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl930" Content="" HorizontalAlignment="Left" Height="28" Margin="72,116,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl10" Content="" HorizontalAlignment="Left" Height="28" Margin="72,149,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1030" Content="" HorizontalAlignment="Left" Height="25" Margin="72,182,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl11" Content="" HorizontalAlignment="Left" Height="30" Margin="72,214,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1130" Content="" HorizontalAlignment="Left" Height="29" Margin="72,252,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl12" Content="" HorizontalAlignment="Left" Height="30" Margin="72,286,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1230" Content="" HorizontalAlignment="Left" Height="26" Margin="72,321,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl13" Content="" HorizontalAlignment="Left" Height="32" Margin="72,355,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl14" Content="" HorizontalAlignment="Left" Height="25" Margin="418,81,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1330" Content="" HorizontalAlignment="Left" Height="32" Margin="72,392,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1430" Content="" HorizontalAlignment="Left" Height="25" Margin="418,116,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl15" Content="" HorizontalAlignment="Left" Height="25" Margin="418,149,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1530" Content="" HorizontalAlignment="Left" Height="25" Margin="418,182,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl16" Content="" HorizontalAlignment="Left" Height="25" Margin="418,217,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1630" Content="" HorizontalAlignment="Left" Height="25" Margin="418,251,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl17" HorizontalAlignment="Left" Height="25" Margin="418,286,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1730" Content="" HorizontalAlignment="Left" Height="24" Margin="418,322,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl18" HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242" Margin="418,354,0,0"/>
+        <Label x:Name="lbl1830" Content="" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242" Margin="418,393,0,0"/>
+        <Label Content="11:30" HorizontalAlignment="Left" Margin="26,251,0,0" VerticalAlignment="Top"/>
+        <Label Content="12:00" HorizontalAlignment="Left" Margin="26,286,0,0" VerticalAlignment="Top"/>
+        <Label Content="12:30" HorizontalAlignment="Left" Margin="26,321,0,0" VerticalAlignment="Top"/>
+        <Label Content="13:00" HorizontalAlignment="Left" Margin="26,354,0,0" VerticalAlignment="Top"/>
+        <Label Content="13:30" HorizontalAlignment="Left" Margin="26,393,0,0" VerticalAlignment="Top"/>
+        <Label Content="14:00" HorizontalAlignment="Left" Margin="375,81,0,0" VerticalAlignment="Top"/>
+        <Label Content="14:30" HorizontalAlignment="Left" Margin="375,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="15:00" HorizontalAlignment="Left" Margin="375,146,0,0" VerticalAlignment="Top"/>
+        <Label Content="15:30" HorizontalAlignment="Left" Margin="375,181,0,0" VerticalAlignment="Top"/>
+        <Label Content="16:00" HorizontalAlignment="Left" Margin="375,216,0,0" VerticalAlignment="Top"/>
+        <Label Content="16:30" HorizontalAlignment="Left" Margin="375,251,0,0" VerticalAlignment="Top"/>
+        <Label Content="17:00" HorizontalAlignment="Left" Margin="375,285,0,0" VerticalAlignment="Top"/>
+        <Label Content="17:30" HorizontalAlignment="Left" Margin="375,321,0,0" VerticalAlignment="Top"/>
+        <Label Content="18:00" HorizontalAlignment="Left" Margin="375,355,0,0" VerticalAlignment="Top"/>
+        <Label Content="18:30" HorizontalAlignment="Left" Margin="375,392,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl19" Content="" HorizontalAlignment="Left" Height="25" Margin="763,81,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl1930" Content="" HorizontalAlignment="Left" Height="25" Margin="763,116,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl20" Content="" HorizontalAlignment="Left" Height="25" Margin="763,149,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl2030" Content="" HorizontalAlignment="Left" Height="25" Margin="763,182,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label x:Name="lbl21" Content="" HorizontalAlignment="Left" Height="25" Margin="763,218,0,0" VerticalAlignment="Top" Width="182" BorderBrush="#FF555454" Background="#FFA0A0A0" Foreground="White" OpacityMask="#FF464242"/>
+        <Label Content="19:00" HorizontalAlignment="Left" Margin="720,82,0,0" VerticalAlignment="Top"/>
+        <Label Content="19:30" HorizontalAlignment="Left" Margin="720,116,0,0" VerticalAlignment="Top"/>
+        <Label Content="20:00" HorizontalAlignment="Left" Margin="720,149,0,0" VerticalAlignment="Top"/>
+        <Label Content="20:30" HorizontalAlignment="Left" Margin="720,181,0,0" VerticalAlignment="Top"/>
+        <Label Content="21:00" HorizontalAlignment="Left" Margin="720,216,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblfechadia" Content="" HorizontalAlignment="Left" Height="28" Margin="399,7,0,0" VerticalAlignment="Top" Width="118" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
