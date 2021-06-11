@@ -886,11 +886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\José\\Documents\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
+      "projectUniqueName": "C:\\Users\\José\\Documents\\TallerDeProgra\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
       "projectName": "ClinicaVeterinaria",
-      "projectPath": "C:\\Users\\José\\Documents\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
+      "projectPath": "C:\\Users\\José\\Documents\\TallerDeProgra\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
       "packagesPath": "C:\\Users\\José\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\José\\Documents\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\obj\\",
+      "outputPath": "C:\\Users\\José\\Documents\\TallerDeProgra\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

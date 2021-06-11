@@ -286,7 +286,7 @@
             Foreground="White"
             FontSize="15"
             FontWeight="Medium"
-            Click="AgendarHora" Margin="869,330,99,278" FontFamily="Yu Gothic" Cursor="Hand" >
+            Click="AgendarHora" Margin="244,10,724,199" FontFamily="Yu Gothic" Cursor="Hand" Grid.Row="1" >
             <Button.Style>
                 <Style TargetType="{x:Type Button}">
                     <Setter Property="Cursor" Value="Hand"/>
@@ -315,36 +315,7 @@
             Foreground="White"
             FontSize="15"
             FontWeight="Medium"
-            Click="Eliminar" Margin="238,139,730,69" FontFamily="Yu Gothic" Cursor="Hand" Grid.Row="1" >
-            <Button.Style>
-                <Style TargetType="{x:Type Button}">
-                    <Setter Property="Cursor" Value="Hand"/>
-                    <Setter Property="Background" Value="#FF038580"/>
-                    <Style.Triggers>
-                        <Trigger Property="IsMouseOver" Value="True">
-                            <Setter Property="Background" Value="#FF052D37"/>
-                        </Trigger>
-                    </Style.Triggers>
-                </Style>
-            </Button.Style>
-            <Button.Template>
-                <ControlTemplate TargetType="{x:Type Button}">
-                    <Border Width="150"
-                        Height="25"
-                        CornerRadius="12"
-                        Background="{TemplateBinding Background}" Margin="2,28,4,18">
-                        <ContentPresenter VerticalAlignment="Top"
-                            HorizontalAlignment="Center"/>
-                    </Border>
-                </ControlTemplate>
-            </Button.Template>
-        </Button>
-        <Button x:Name="btnMostrarHora" 
-            Content="Mostrar Hora" 
-            Foreground="White"
-            FontSize="15"
-            FontWeight="Medium"
-            Click="MostrarHora" Margin="869,650,99,320" FontFamily="Yu Gothic" Cursor="Hand" Grid.RowSpan="2" >
+            Click="Eliminar" Margin="872,602,96,5" FontFamily="Yu Gothic" Cursor="Hand" >
             <Button.Style>
                 <Style TargetType="{x:Type Button}">
                     <Setter Property="Cursor" Value="Hand"/>
@@ -373,7 +344,7 @@
             Foreground="White"
             FontSize="15"
             FontWeight="Medium"
-            Click="Calendario" Margin="869,38,99,181" FontFamily="Yu Gothic" Cursor="Hand" Grid.Row="1" >
+            Click="Calendario" Margin="872,257,96,361" FontFamily="Yu Gothic" Cursor="Hand" >
             <Button.Style>
                 <Style TargetType="{x:Type Button}">
                     <Setter Property="Cursor" Value="Hand"/>
@@ -474,13 +445,28 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <ComboBox x:Name="cmbhoraeliminar" HorizontalAlignment="Left" Margin="472,216,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cmbhoraeliminar" HorizontalAlignment="Left" Margin="900,586,0,0" VerticalAlignment="Top" Width="120"/>
         <Label Content="Seleccionar hora a eliminar" 
             HorizontalAlignment="Left" 
-            Margin="418,139,0,0" 
+            Margin="818,401,0,0" 
             VerticalAlignment="Top"
-            Height="70" Width="240" 
+            Height="70" Width="298" 
             FontSize="22"
-            FontFamily="Fonts/#Dosis" Grid.Row="1"/>
+            FontFamily="Fonts/#Dosis"/>
+        <TextBox x:Name="txtRutClienteeliminar" 
+            HorizontalAlignment="Left" 
+            Margin="880,537,0,0"
+            Text="&#xA;" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top" 
+            Width="160" 
+            Height="23"/>
+        <Label Content="Rut Cliente" 
+            HorizontalAlignment="Left" 
+            Margin="894,467,0,0" 
+            VerticalAlignment="Top"
+            Height="70" Width="146" 
+            FontSize="22"
+            FontFamily="Fonts/#Dosis"/>
     </Grid>
 </Window>

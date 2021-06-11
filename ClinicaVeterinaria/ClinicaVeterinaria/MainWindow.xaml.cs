@@ -24,9 +24,10 @@ namespace ClinicaVeterinaria
         Veterinaria vet = new Veterinaria();
         public MainWindow()
         {
+            // se inicializan los componentes
             InitializeComponent();
-            // falla el inicio
-            WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
+            // falla el inicio en algunos computadores, si tira error al inicio de la app, descomentar.
+            //WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             TotalInventario();
             Cantventasdeldía();
             Atencionesdeldia();
@@ -38,6 +39,8 @@ namespace ClinicaVeterinaria
                 DragMove();
             }
         }
+
+        // botones laterales
         private void botonVentas(object sender, RoutedEventArgs e)
         {
             wpfventas ventas = new wpfventas();
@@ -54,20 +57,21 @@ namespace ClinicaVeterinaria
 
         private void TotalInventario()
         {
+            // se le pasa el llamado de la bd
             this.lbltotalinv.Content = string.Empty;
             this.lbltotalinv.Content = vet.TotalInventario();
 
         }
 
         private void Cantventasdeldía()
-        {
+        { // se le pasa el llamado de la bd
             this.lblventasdeldia.Content = string.Empty;
             this.lblventasdeldia.Content = vet.TotalventasDirarias();
 
         }
 
         private void Atencionesdeldia()
-        {
+        {  // se le pasa el llamado de la bd
             this.lblatenciones.Content = string.Empty;
             this.lblatenciones.Content = vet.MostrarReservasDiarias();
         }

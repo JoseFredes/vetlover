@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\
+C:\Users\José\Documents\TallerDeProgra\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\net5.0-windows\
 ClinicaVeterinaria
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\José\Documents\TallerDeProgra\proyectoclinica\proyectoclinica\ClinicaVeterinaria\ClinicaVeterinaria\App.xaml
-81908373556
+
+7-1609122256
 7213513691
-23-775954316
+21-1736210327
 202-874590776
-AgendarHora12.xaml;MainWindow.xaml;ventanaagenda.xaml;wpfAgendarHora.xaml;wpfFichaPaciente.xaml;wpfInventario.xaml;wpfReportes.xaml;wpfventas.xaml;
+MainWindow.xaml;ventanaagenda.xaml;wpfAgendarHora.xaml;wpfFichaPaciente.xaml;wpfInventario.xaml;wpfReportes.xaml;wpfventas.xaml;
 
 True
 

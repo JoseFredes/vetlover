@@ -428,14 +428,6 @@
             HorizontalContentAlignment="Center" 
             FontSize="19"
             FontFamily="Fonts/#Dosis"   />
-        <Label Content="En el caso de que el cliente no este registrado o no diga su rut ingresar 000000000 (9 ceros)" 
-            HorizontalAlignment="Center" 
-            Margin="0,957,0,0" 
-            VerticalAlignment="Top" 
-            Height="40" Width="412" 
-            HorizontalContentAlignment="Center" 
-            FontSize="11"
-            FontFamily="Fonts/#Dosis"   />
 
     </Grid>
 </Window>

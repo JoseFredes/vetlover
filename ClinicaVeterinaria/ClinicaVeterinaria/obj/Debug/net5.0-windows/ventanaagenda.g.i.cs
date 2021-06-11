@@ -261,7 +261,7 @@ namespace ClinicaVeterinaria {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ClinicaVeterinaria;component/ventanaagenda.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ClinicaVeterinaria;V1.0.0.0;component/ventanaagenda.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ventanaagenda.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

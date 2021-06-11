@@ -21,10 +21,13 @@ namespace ClinicaVeterinaria
     {
         public wpfReportes()
         {
+            //se inicializan las fechas
             InitializeComponent();
             clrpordia.SelectedDate = DateTime.Now;
+            clrpordia.DisplayDateEnd = DateTime.Today.AddDays(1);
         }
 
+        //botones
         private void botonInicio(object sender, RoutedEventArgs e)
         {
             MainWindow inicio = new MainWindow();
@@ -60,6 +63,7 @@ namespace ClinicaVeterinaria
             this.Close();
         }
 
+        // se muestran las ventas
         private void MostrarVentas(object sender, RoutedEventArgs e)
         {
             var conexionBBDD = new ConeccionBBDD();
@@ -80,11 +84,7 @@ namespace ClinicaVeterinaria
  
         }
 
-        private void GenerarReporte(object sender, RoutedEventArgs e)
-        {
-
-        }
-
+        // boton salir
         private void salir(object sender, RoutedEventArgs e)
         {
             this.Close();

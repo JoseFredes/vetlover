@@ -25,6 +25,7 @@ namespace ClinicaVeterinaria
            
         }
 
+        // funcion que llena el calendario dada la fecha seleccionada
         public void llenarcalendario(DateTime fecha)
         { 
             var coneccion = new ConeccionBBDD();

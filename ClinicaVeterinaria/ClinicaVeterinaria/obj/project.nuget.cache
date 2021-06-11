@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L1saI/+NbsMDv6bgd5YItey/5gj6pu2vjfDP9oMoOzXh9U5mA1GIYQHfFecpLDSBlwKmV0AgCyK9KnQ+bFc3zA==",
+  "dgSpecHash": "Jb67Zw3y1wfnPT4lFtBkEALF8bo3jHPd9ZbhyJyBgjN3BkxaWHMCGWYlw15veBxTFFaC0JNeLP75cJ3ncp5Dhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\José\\Documents\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
+  "projectFilePath": "C:\\Users\\José\\Documents\\TallerDeProgra\\TallerDeProgra\\proyectoclinica\\proyectoclinica\\ClinicaVeterinaria\\ClinicaVeterinaria\\ClinicaVeterinaria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\José\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\José\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

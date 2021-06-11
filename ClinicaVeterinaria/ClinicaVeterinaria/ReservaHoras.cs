@@ -65,11 +65,6 @@ namespace ClinicaVeterinaria
             Coneccion.eliminarconsulta(id, fecha, hora);
         }
 
-        public List<string> Consultarhorapaciente(string rut, DateTime date, string nombremascota)
-        {
-            var paciente = Coneccion.Consultarhoradepaciente(rut,date,nombremascota);
-
-            return paciente;
-        }
+       
     }
 }

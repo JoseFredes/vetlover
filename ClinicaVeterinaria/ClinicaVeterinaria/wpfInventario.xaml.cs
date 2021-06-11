@@ -27,6 +27,7 @@ namespace ClinicaVeterinaria
        
         public wpfInventario()
         {
+            // se inicializan los componentes, como los combo box.
             InitializeComponent();
             WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             this.cmbProducto.Items.Insert(0, "-Seleccione tipo de producto-");
@@ -44,6 +45,7 @@ namespace ClinicaVeterinaria
             }
         }
 
+        // se programan los botones de cada una de las ventanas
         private void botonInicio(object sender, RoutedEventArgs e)
         {
             MainWindow Inicio = new MainWindow();
@@ -81,6 +83,7 @@ namespace ClinicaVeterinaria
         }
         private void llenarCombo(ComboBox combo, ComboBox comboBoxBuscar)
         {
+            //se llena el combo de tipo de producto
             List<string> listaProductos = new List<string>();
             listaProductos.Add("-Seleccione tipo de producto-");
             listaProductos.Add(TipoProducto.Alimento.ToString());
@@ -112,7 +115,22 @@ namespace ClinicaVeterinaria
 
         private void btnAgregar_Click(object sender, RoutedEventArgs e)
         {
-            //validar las casillas vacias y que se limpien al agregar el codigo
+            // se validan los datos y luego se agregan los productos a la tabla inventario. 
+
+
+            if (this.txtNombre.Text == string.Empty)
+                MessageBox.Show("Por favor Ingresar el nombre del producto");
+
+            if (this.txtInformacion.Text == string.Empty)
+                MessageBox.Show("Debe ingresar la información del producto");
+
+            if (this.txtCantidad.Text == string.Empty)
+                MessageBox.Show("Debe ingresar una cantidad");
+
+            if (this.txtPrecio.Text == string.Empty)
+                MessageBox.Show("Debe ingresar un precio");
+
+
             producto.NombreProducto = this.txtNombre.Text;
             producto.InfoProducto = this.txtInformacion.Text;
             producto.PrecioProducto = int.Parse(this.txtPrecio.Text);
@@ -145,6 +163,7 @@ namespace ClinicaVeterinaria
 
         private void MostrarInventario(object sender, RoutedEventArgs e)
         {
+            // al momento de apretar el boton, se muestra el inventario
             String[] losproductos = new String[coneccionbbdd.mostrarInventario().Count];
             lvinventario.Items.Clear();
             foreach (var item in coneccionbbdd.mostrarInventario().ToList())
@@ -158,9 +177,15 @@ namespace ClinicaVeterinaria
 
         private void BxCodigo(object sender, RoutedEventArgs e)
         {
+            // se busca el producto por condigo y luego este se muestra
+
+            if (this.txtBxCodigo.Text == string.Empty)
+                MessageBox.Show("Debes ingresar un Codigo");
+
             string codigo = this.txtBxCodigo.Text;
             int id = int.Parse(codigo);
             String[] arrayproductos = new String[coneccionbbdd.mostrarInventario().Count];
+
 
             foreach (var producto in coneccionbbdd.mostrarInventario().ToList())
             {
@@ -176,6 +201,7 @@ namespace ClinicaVeterinaria
 
         public void mostrarproductoactualizado(int cantidad, int id, int cantidadaeliminar)
         {
+            // se muestran los productos luego de eliminarse un producto.
             String[] arrayproductos = new String[coneccionbbdd.mostrarInventario().Count];
 
             foreach (var producto in coneccionbbdd.mostrarInventario().ToList())
@@ -193,42 +219,55 @@ namespace ClinicaVeterinaria
 
         private void Eliminar(object sender, RoutedEventArgs e)
         {
+            // se elimina un producto del inventario y su cantidad, el producto en si no se elimina,si no que se elimina su cantidad. 
 
-            //se toman las variables desde los txt y luego se conviertena a entero
-            string codigo = this.txtExCodigo.Text;
-            string cantidad = this.txtEliminarCantidad.Text;
-            int id = int.Parse(codigo);
-            int cantidadint = int.Parse(cantidad);
-            String[] arrayproductos = new String[coneccionbbdd.traerinventario().Count];
-            int resultado = 0;
-            int intproductoinv = 0;
-
-
-            foreach (var producto in coneccionbbdd.mostrarInventario())
+            if (this.txtExCodigo.Text == string.Empty)
+                MessageBox.Show("Debes ingresar el codigo");
+            else
             {
-                string strproductos = producto.ToString();
-                arrayproductos = strproductos.Split(';');
-
-                if (arrayproductos[0].Equals((id.ToString())))
+                if (this.txtEliminarCantidad.Text == string.Empty)
+                    MessageBox.Show("La Cantidad ingresada no es valida");
+                else
                 {
-                    string cadena = arrayproductos[2];
-                    string filtrado = string.Concat(cadena.Where(c => Char.IsDigit(c)));
-                    intproductoinv = int.Parse(filtrado);
+                    //se toman las variables desde los txt y luego se convierten a entero
+                    string codigo = this.txtExCodigo.Text;
+                    string cantidad = this.txtEliminarCantidad.Text;
+                    int id = int.Parse(codigo);
+                    int cantidadint = int.Parse(cantidad);
+                    String[] arrayproductos = new String[coneccionbbdd.traerinventario().Count];
+                    int resultado = 0;
+                    int intproductoinv = 0;
 
-                    if (intproductoinv >= cantidadint)
+
+                    foreach (var producto in coneccionbbdd.mostrarInventario())
                     {
-                        
-                       resultado = venta.EliminarProductoInventario(cantidadint, intproductoinv);
+                        string strproductos = producto.ToString();
+                        arrayproductos = strproductos.Split(';');
+
+                        if (arrayproductos[0].Equals((id.ToString())))
+                        {
+                            string cadena = arrayproductos[2];
+                            string filtrado = string.Concat(cadena.Where(c => Char.IsDigit(c)));
+                            intproductoinv = int.Parse(filtrado);
+
+                            if (intproductoinv >= cantidadint)
+                            {
+
+                                resultado = venta.EliminarProductoInventario(cantidadint, intproductoinv);
+                            }
+                            else
+                            {
+                                MessageBox.Show("el valor que desea eliminar" + cantidad + "es mayor a la del intentario" + arrayproductos[2] + "intente con otro valor");
+                            }
+                        }
                     }
-                    else
-                    {
-                        MessageBox.Show("el valor que desea eliminar" + cantidad + "es mayor a la del intentario" + arrayproductos[2] + "intente con otro valor");
-                    }
+
+                    coneccionbbdd.eliminarCantidadproducto(id, resultado);
+                    mostrarproductoactualizado(intproductoinv, id, cantidadint);
                 }
-            }
 
-            coneccionbbdd.eliminarCantidadproducto(id, resultado);
-            mostrarproductoactualizado(intproductoinv, id,cantidadint);
+            }
+            
 
             this.txtExCodigo.Text = String.Empty;
             this.txtEliminarCantidad.Text = String.Empty;
@@ -236,16 +275,18 @@ namespace ClinicaVeterinaria
 
         private void salir(object sender, RoutedEventArgs e)
         {
+            // boton salir.
             this.Close();
         }
 
         private void cmbBuscarporTipo_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-
+            // no requiere ni un metodo, ya que es el cmb
         }
 
         private void BxTipo(object sender, RoutedEventArgs e)
         { 
+            // en este boton se buscan los intvbentarios por el tipo de producto que haya, o sea se filtran
             // se crea un producto el cual tiene como objetivo pasar solo el atributo TipoProducto
             Producto productoabuscar = new Producto();            
             lvinventario.Items.Clear();
@@ -268,7 +309,7 @@ namespace ClinicaVeterinaria
                 productosportpo = strproductos.Split(';');
                 lvinventario.Items.Add("ID:" + productosportpo[0].ToString() + " Nombre Producto: " + productosportpo[1].ToString() + " Cantidad: " + productosportpo[2].ToString() + " Precio: " + productosportpo[3].ToString() + " Info: " + productosportpo[4].ToString() + " Tipo de Producto: " + productosportpo[5].ToString() + "\n");
             }
-            this.cmbBuscarporTipo.SelectedItem = 0; //no queda el item seleccionado
+            this.cmbBuscarporTipo.SelectedIndex = 0; 
 
         }
     }

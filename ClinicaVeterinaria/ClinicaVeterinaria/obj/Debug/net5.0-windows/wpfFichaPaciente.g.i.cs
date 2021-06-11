@@ -229,7 +229,7 @@ namespace ClinicaVeterinaria {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ClinicaVeterinaria;component/wpffichapaciente.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ClinicaVeterinaria;V1.0.0.0;component/wpffichapaciente.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\wpfFichaPaciente.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
